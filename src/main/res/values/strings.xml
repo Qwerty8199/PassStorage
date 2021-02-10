@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PassStorage</string>
+    <string name="todo">TODO</string>
+    <string name="one">View</string>
+    <string name="two">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
